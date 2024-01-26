@@ -113,7 +113,9 @@ This is a visualization of GobbleBot’s GPS data projected over walking routes 
 
 <img width="374" alt="hokiebot on map" src="https://github.com/CarpenterA1/Gobble-bot/assets/114365656/d591192c-127e-4670-b271-d62903394943">
 
+This is our currwnt CAD model of the drive train assembly and tracks designed to be able to manuver on the steep road grades and differing traction conditions on campus.
 
+![HokieBot Drive Gear v9](https://github.com/CarpenterA1/Gobble-bot/assets/92829373/ae70ef98-a27e-4288-8531-24a7ea1b51fe)
 
 
 
