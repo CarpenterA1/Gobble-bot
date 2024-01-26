@@ -27,13 +27,19 @@ Elijah is a passionate and fast learner, always eager to try and learn new thing
 B.S. Mechanical Engineering
 Blacksburg, VA, USA**
 
-## Mentor
-Matthew James, P.E., M.S.
-Associate Professor of Practice
+Gabe is our newest member, he is intrested in cad and structural analysis.
 
-Lisa D. McNair, Ph.D.
+## Mentor
+**Matthew James, P.E., M.S.**
+      
+ Associate Professor of Practice
+
+**Lisa D. McNair, Ph.D.**
+
 Professor, Engineering Education
+
 Director, Center for Educational Networks and Impacts (CENI)
+
 Senior Fellow, Institute for Creativity, Arts, and Technology
 
 ## Current Status
