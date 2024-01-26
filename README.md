@@ -1,31 +1,31 @@
 ## Members
-Abraham Tenorio
+**Abraham Tenorio
 B.S. Electrical Engineering
-Blacksburg, VA, USA
+Blacksburg, VA, USA**
 
-	Abraham is the Director of Electronics and Innovation. As the sole Electronics and Communication Engineering (ECE) major among the group, Abraham champions the integration of cutting-edge electronic solutions into the GobbleBot’s architecture. His expertise lies in bridging the realms of hardware and software, guiding the team through the intricacies of electronic system development. He is responsible for the front end integration of our sensors writing arduino code to collect raw data from our GPS module, Magnetometer, and Lidar. He is also highly proficient in CAD responsible for the housing for sensors, food storage compartment locking mechanism, and version 1s design. He currently works in Applied Electromagnetics and wishes to further explore this field.
+Abraham is the Director of Electronics and Innovation. As the sole Electronics and Communication Engineering (ECE) major among the group, Abraham champions the integration of cutting-edge electronic solutions into the GobbleBot’s architecture. His expertise lies in bridging the realms of hardware and software, guiding the team through the intricacies of electronic system development. He is responsible for the front end integration of our sensors writing arduino code to collect raw data from our GPS module, Magnetometer, and Lidar. He is also highly proficient in CAD responsible for the housing for sensors, food storage compartment locking mechanism, and version 1s design. He currently works in Applied Electromagnetics and wishes to further explore this field.
 
-Abdullah Khurram
+**Abdullah Khurram
 B.S. Computer Science
-Blacksburg, VA, USA
+Blacksburg, VA, USA**
 
-	Abdullah is the lead programmer for the team. As the sole dedicated software engineer for the team, he is responsible for software development and continuous integration/implementation for the robot. As the programmer, he has created various tools and scripts that help further the development of the GobbleBot. He wishes one day to help push computer technology forward, via AI or quantum computing or low-level systems development. Whatever it may be, he is talented, passionate, and is looking forward to joining the tech community. 
+Abdullah is the lead programmer for the team. As the sole dedicated software engineer for the team, he is responsible for software development and continuous integration/implementation for the robot. As the programmer, he has created various tools and scripts that help further the development of the GobbleBot. He wishes one day to help push computer technology forward, via AI or quantum computing or low-level systems development. Whatever it may be, he is talented, passionate, and is looking forward to joining the tech community. 
 
-Robert Higinbotham
+**Robert Higinbotham
 B.S. Aerospace Engineering
-Blacksburg, VA, USA
+Blacksburg, VA, USA**
 
-	Robert is the lead engineer for the mechanical design and structural analysis of the GobbleBot. His work over the 2023 Fall semester includes the design and simulation of the drivetrain elements and suspension system incorporating the anticipated stresses and conditions that the robot will likely encounter. He has also led efforts as the primary outreach for the team, contacting on campus partners as well as promoting the integration of GobbleBot with Virginia Tech Dining Services. Furthermore, he has acted as the team's code integration lead, using previous experience with Python to aid in the realization of the codebase to fit the team's needs. Ultimately, Robert plans to utilize the trans-disciplinary skills he has developed to lead growth in the space manufacturing industry.
+Robert is the lead engineer for the mechanical design and structural analysis of the GobbleBot. His work over the 2023 Fall semester includes the design and simulation of the drivetrain elements and suspension system incorporating the anticipated stresses and conditions that the robot will likely encounter. He has also led efforts as the primary outreach for the team, contacting on campus partners as well as promoting the integration of GobbleBot with Virginia Tech Dining Services. Furthermore, he has acted as the team's code integration lead, using previous experience with Python to aid in the realization of the codebase to fit the team's needs. Ultimately, Robert plans to utilize the trans-disciplinary skills he has developed to lead growth in the space manufacturing industry.
 
-Elijah Hinton
+**Elijah Hinton
 B.S. Aerospace Engineering
-Blacksburg, VA, USA
+Blacksburg, VA, USA**
 
-	Elijah is a passionate and fast learner, always eager to try and learn new things, to contribute in any way that he can. This mindset has caused him to become a sort of catch-all for the team, while each of the other members have their specific roles, Elijah fills in all the gaps. He wishes to one day contribute to the aerospace industry, whether it be space, planes, or whatever niche he may one day fill. 
+Elijah is a passionate and fast learner, always eager to try and learn new things, to contribute in any way that he can. This mindset has caused him to become a sort of catch-all for the team, while each of the other members have their specific roles, Elijah fills in all the gaps. He wishes to one day contribute to the aerospace industry, whether it be space, planes, or whatever niche he may one day fill. 
 
-Gabe Rosado
+**Gabe Rosado
 B.S. Mechanical Engineering
-Blacksburg, VA, USA
+Blacksburg, VA, USA**
 
 ## Mentor
 Matthew James, P.E., M.S.
@@ -51,7 +51,46 @@ on a highly restricted budget which proves that we should be able to create a ch
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+*   **Embedded Systems and Microcontroller Programming:**
+    
+    *   Programming the Arduino board to control the various sensors and actuators involves understanding embedded systems and microcontroller programming.
+    *   Developing skills in writing code for real-time control and communication with multiple peripherals.
+*   **Sensor Integration and Data Fusion:**
+    
+    *   Integrating LiDAR, a camera, and a GPS module requires understanding different sensor types and their specifications.
+    *   Learning how to handle data from multiple sensors and fuse it for more accurate and robust decision-making.
+*   **Computer Vision and Image Processing:**
+    
+    *   Implementing computer vision algorithms for real-time object detection and avoidance using the camera.
+    *   Processing images and extracting relevant information for navigation and obstacle avoidance.
+*   **Robotics and Kinematics:**
+    
+    *   Understanding the basics of robotic kinematics and control to ensure the robot moves accurately and safely.
+    *   Implementing algorithms for path planning and navigation using GPS coordinates.
+*   **Communication Protocols:**
+    
+    *   Learning about communication protocols for interfacing between the Arduino and other devices, such as GPS modules and mobile apps.
+    *   Implementing communication protocols for data exchange between the robot and the user interface.
+*   **Real-Time Systems:**
+    
+    *   Gaining insights into real-time system requirements and considerations for robotics applications.
+    *   Developing strategies to ensure the system responds promptly to changing conditions and inputs.
+*   **Mechanical Integration:**
+    
+    *   Collaborating with mechanical engineering principles for integrating electronic components with the physical structure of the robot.
+    *   Understanding how the mechanical design impacts the overall performance of the robot.
+*   **Testing and Debugging:**
+    
+    *   Practical experience in testing and debugging complex systems involving hardware and software components.
+    *   Developing troubleshooting skills to identify and resolve issues in the autonomous system.
+*   **Project Management:**
+    
+    *   Planning and managing a project with multiple components, milestones, and dependencies.
+    *   Enhancing skills in time management, resource allocation, and teamwork.
+*   **Integration with Mobile App Development:**
+    
+    *   Developing skills in mobile app development for displaying real-time data, such as the robot's location and path, on a user interface.
+    *   Implementing features for user interaction, feedback, and control through the mobile app.
 
 ## Tasks
 
